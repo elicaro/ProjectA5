@@ -3,7 +3,7 @@ package demo1;
 public class DemoTest5 {
 	
 	public static void main (String args[]) {
-		System.out.println("Batch13:");
+		System.out.println("Batch13: Git Lecture");
 		
 		
 		int a = 10;
